@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:hsl(47, 88%, 63%) ;
+}
+
+    
+    
+
+.card{
+    background-color:  hsl(0, 0%, 100%);
+    width: 30%;
+    margin: 40px auto;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 1px 5px 0px 5px black;
+    border-radius: 10px;
+}
+
+.image{
+    width: 100%;
+}
+
+.image img{
+    width: 100%;
+    border-radius: 10px ;
+}
+.content h2{
+    padding: 20px;
+    background-color: hsl(47, 88%, 63%);
+    width: max-content;
+    border-radius: 10px;
+}
+
+.content p{
+    padding: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    color:  hsl(0, 0%, 42%);
+}
+
+.pic{
+    display: flex;
+    width: 80%;
+
+}
+
+.pic p{
+    font-size: 20px;
+   
+}
+
+
